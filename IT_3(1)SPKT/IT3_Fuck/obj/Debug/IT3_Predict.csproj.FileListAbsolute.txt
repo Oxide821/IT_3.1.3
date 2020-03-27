@@ -1,0 +1,10 @@
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\bin\Debug\IT3_Fuck.exe.config
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\bin\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\bin\Debug\IT3_Fuck.pdb
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Predict.csprojAssemblyReference.cache
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Fuck.Fourea.resources
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Degradation.Main.resources
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Fuck.Properties.Resources.resources
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Predict.csproj.GenerateResource.cache
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT_3(1)SPKT\IT3_Fuck\obj\Debug\IT3_Fuck.pdb

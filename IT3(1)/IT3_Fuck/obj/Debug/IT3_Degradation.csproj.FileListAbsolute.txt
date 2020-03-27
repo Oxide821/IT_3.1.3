@@ -1,0 +1,27 @@
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\bin\Debug\IT3_Fuck.exe.config
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\bin\Debug\IT3_Fuck.exe
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\bin\Debug\IT3_Fuck.pdb
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Degradation.csprojAssemblyReference.cache
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Degradation.Main.resources
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Fuck.Properties.Resources.resources
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Degradation.csproj.GenerateResource.cache
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Fuck.exe
+D:\Учеба\Программы\IT3_Fuck\IT3_Fuck\obj\Debug\IT3_Fuck.pdb
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\bin\Debug\IT3_Fuck.exe.config
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\bin\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\bin\Debug\IT3_Fuck.pdb
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Degradation.csprojAssemblyReference.cache
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Degradation.Main.resources
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Fuck.Properties.Resources.resources
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Degradation.csproj.GenerateResource.cache
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT3_Fuck (1)\IT3_Fuck\obj\Debug\IT3_Fuck.pdb
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\bin\Debug\IT3_Fuck.exe.config
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\bin\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\bin\Debug\IT3_Fuck.pdb
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Degradation.csprojAssemblyReference.cache
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Degradation.Main.resources
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Fuck.Properties.Resources.resources
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Degradation.csproj.GenerateResource.cache
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Fuck.exe
+C:\Users\X-8\Desktop\IT3(1)\IT3_Fuck\obj\Debug\IT3_Fuck.pdb
